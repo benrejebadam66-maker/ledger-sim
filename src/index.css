@@ -1,0 +1,6 @@
+/* Remove Vite template constraints so the app can be full width */
+html, body, #root { height: 100%; }
+body { margin: 0; }
+
+/* In case the template added these, force them off */
+#root { max-width: none; margin: 0; padding: 0; }
