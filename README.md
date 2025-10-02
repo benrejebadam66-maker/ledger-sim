@@ -10,3 +10,4 @@
 
 ## Deploy
 - Hosted on Vercel. Pushing to `main` triggers an auto-deploy (after you connect the repo in Vercel → Settings → Git).
+Auto-deploy test – <your note here>
